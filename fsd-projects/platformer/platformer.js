@@ -36,21 +36,22 @@ createPlatform(300, 610, 100, 20, "darkblue");
 createPlatform(800, 480, 100, 20, "darkblue");
 createPlatform(600, 400, 100, 20, "darkblue");
 createPlatform(1000, 400, 100, 20, "darkblue");
-createPlatform(250, 38got add 0, 70, 20, "darkblue");
+createPlatform(1200, 300, 100, 20, "darkblue");
+createPlatform(250, 380, 70, 20, "darkblue");
 createPlatform(250, 250, 70, 20, "darkblue");
 
 
 
     // TODO 3 - Create Collectables
-
-
-
+createCollectable("database", 267, 200);
+createCollectable("database", 1230, 250);
+createCollectable("database", 1330, 690);
     
     // TODO 4 - Create Cannons
-
-
-    
-    
+createCannon("right", 430, 2500);
+createCannon("bottom", 490, 1800);
+    createCannon("bottom", 790, 1900);
+    createCannon("bottom", 1090, 2000);
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
     //////////////////////////////////
