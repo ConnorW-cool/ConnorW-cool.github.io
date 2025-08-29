@@ -36,8 +36,8 @@ createPlatform(300, 610, 100, 20, "darkblue");
 createPlatform(800, 480, 100, 20, "darkblue");
 createPlatform(600, 400, 100, 20, "darkblue");
 createPlatform(1000, 400, 100, 20, "darkblue");
-
-
+createPlatform(250, 38got add 0, 70, 20, "darkblue");
+createPlatform(250, 250, 70, 20, "darkblue");
 
 
 
